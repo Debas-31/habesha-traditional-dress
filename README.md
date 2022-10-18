@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Habesha Traditional Dress
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
